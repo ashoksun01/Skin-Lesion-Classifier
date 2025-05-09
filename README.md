@@ -42,6 +42,24 @@ This demo showcases how users can upload images of their skin lesions and receiv
 
 ---
 
+## Data Source
+
+The image data used in this project came from the following five sources:
+
+- **BCN_20000 Dataset** (Department of Dermatology, Hospital Clínic de Barcelona, n.d.)
+- **HAM10000 Dataset** (ViDIR Group, Department of Dermatology, Medical University of Vienna, n.d.)
+- **MSK Dataset** (Anonymous, n.d.)
+- **SIIM-ISIC 2020 Challenge Dataset** (International Skin Imaging Collaboration, n.d.)
+
+### 🗃️ Data Cleaning & Preparation
+- After combining these datasets, we performed data cleaning by:
+  - Deduplicating images.
+  - Removing unlabeled, inconsistently labeled, and inconclusively labeled images.
+- This process resulted in a final dataset of approximately **20,000 images**.
+- The primary label for each image was a **binary target** indicating whether the lesion was **malignant** or **benign**.
+
+---
+
 ## Model Performance
 LesionLens outperformed human expert classification in diagnosing malignant skin lesions, achieving the following metrics:
 
