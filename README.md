@@ -51,7 +51,7 @@ The image data used in this project came from the following five sources:
 - **MSK Dataset** (Anonymous, n.d.)
 - **SIIM-ISIC 2020 Challenge Dataset** (International Skin Imaging Collaboration, n.d.)
 
-### 🗃️ Data Cleaning & Preparation
+### Data Cleaning & Preparation
 - After combining these datasets, we performed data cleaning by:
   - Deduplicating images.
   - Removing unlabeled, inconsistently labeled, and inconclusively labeled images.
