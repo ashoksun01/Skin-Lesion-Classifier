@@ -9,7 +9,7 @@ LesionLens is a machine learning-powered web application that provides near-inst
 
 ---
 
-## 🚀 Demo
+## Demo
 Check out the live demo of LesionLens: [LesionLens Demo](https://www.youtube.com/watch?v=rn0gUaACZ3k)
 
 This demo showcases how users can upload images of their skin lesions and receive immediate diagnostic support using our machine learning-powered model.
