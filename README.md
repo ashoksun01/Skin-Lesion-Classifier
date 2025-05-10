@@ -18,10 +18,10 @@ This demo showcases how users can upload images of their skin lesions and receiv
 
 ## Repository Structure
 
-- **data_preprocessing_pipeline.ipynb**: Jupyter notebook for image data preprocessing (resizing, noise removal, masking, augmentation, normalization).
-- **final_models.ipynb**: Jupyter notebook for model training and fine-tuning.
-- **final_models_2.ipynb**: Jupyter notebook for more model training and fine-tuning.
-- **lesionlens_slides.pdf**: Presentation slides providing an overview of the project.
+- **`data_preprocessing_pipeline.ipynb`**: Jupyter notebook for image data preprocessing (resizing, noise removal, masking, augmentation, normalization).
+- **`final_models.ipynb`**: Jupyter notebook for model training and fine-tuning.
+- **`final_models_2.ipynb`**: Jupyter notebook for more model training and fine-tuning.
+- **`lesionlens_slides.pdf`**: Presentation slides providing an overview of the project.
 
 ### What This Repository Contains
 - **Data Preprocessing Pipeline:** Contains the full code for cleaning, augmenting, and preparing image data for model training.
